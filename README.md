@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Javier Araúz 👋
 
-<!--
-**Javier0816/Javier0816** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analytics | Python | Data Visualization
 
-Here are some ideas to get you started:
+I'm passionate about transforming data into meaningful insights and developing practical solutions through data analysis, visualization, and automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have experience building Python applications, interactive dashboards, and digital monitoring and reporting solutions. I'm continuously expanding my skills in data analytics, business intelligence, and data-driven problem-solving.
+
+## 🛠️ Tools & Technologies
+
+- **Programming:** Python
+- **Data Analysis:** Excel, Pandas
+- **Data Visualization:** Looker Studio, Streamlit
+- **Development:** Git, GitHub
+- **Currently Learning:** SQL, advanced data analytics, and business intelligence
+
+## 🚀 Featured Projects
+
+Coming soon — a curated selection of data analytics, visualization, and Python projects.
+
+## 📚 Professional Development
+
+Continuously learning through technical courses, certifications, and hands-on projects.
+
+## 📫 Connect
+
+- [GitHub](https://github.com/Javier0816)
