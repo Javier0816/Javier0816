@@ -16,7 +16,21 @@ I have experience building Python applications, interactive dashboards, and digi
 
 ## 🚀 Featured Projects
 
-Coming soon — a curated selection of data analytics, visualization, and Python projects.
+### Automated Media Monitoring & Reporting System
+
+**Technologies:** Python, Streamlit, PostgreSQL, Web Scraping, Data Processing, Automation
+
+Developed a web application that automates the collection, processing, validation, and reporting of digital media information.
+
+**Key Features:**
+- Automated data extraction from multiple digital sources.
+- Data cleaning, normalization, and validation.
+- PostgreSQL database integration.
+- Human review and approval workflows.
+- AI-assisted report generation.
+- Interactive reporting interface.
+
+**Repository:** Private — Source code not publicly available.
 
 ## 📚 Professional Development
 
